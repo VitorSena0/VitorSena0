@@ -28,3 +28,20 @@
   </a>
 </div>
 
+<br>
+
+<div>
+  <a href="https://www.instagram.com/vitorsena02/" target="_blank">
+    <img style="margin-left: 10px;" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:vitor.sena1315@gmail.com">
+    <img style="margin-left: 10px;" src="https://img.shields.io/badge/-Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/vitor-leonardo-sena-de-lima-80a36722b/" target="_blank">
+    <img style="margin-left: 10px;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+
