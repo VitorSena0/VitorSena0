@@ -3,9 +3,9 @@
 <img align="right" width="52%" height="10%"  src="https://github.com/VitorSena0/VitorSena0/assets/97699477/4a40ecc5-47af-4b34-84b4-e7370a0e1821" alt="giphy" width="300" height="200"><br>
 <p style="text-align: justify;">
 Olá, meu nome é Vitor Leonardo e atualmente sou estudante de graduação em Ciências da Computação na UFS. Minha jornada acadêmica é marcada pela busca incessante por conhecimento, explorando diversas áreas para encontrar minha área de interesse. Estou sempre motivado a aprender e crescer, preparando-me para enfrentar os desafios futuros com dedicação e entusiasmo.</p>
-<br><br><br><br><br><br>
-
-
+<br><br><br><br><br>
+<hr>
+<br>
 
 
 <div style="display: flex; justify-content: center;">
@@ -53,6 +53,9 @@ Olá, meu nome é Vitor Leonardo e atualmente sou estudante de graduação em Ci
   <a href="https://www.linkedin.com/in/vitor-leonardo-sena-de-lima-80a36722b/" target="_blank">
     <img style="margin-left: 10px;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+
+  <hr>
+<br>
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
