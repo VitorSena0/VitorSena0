@@ -43,6 +43,7 @@ Meu nome é Vitor Leonardo e atualmente sou estudante de graduação em Ciência
 
 <br>
 
+  <hr>
 <div>
   <a href="https://www.instagram.com/vitorsena02/" target="_blank">
     <img style="margin-left: 10px;" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
@@ -54,7 +55,6 @@ Meu nome é Vitor Leonardo e atualmente sou estudante de graduação em Ciência
     <img style="margin-left: 10px;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <hr>
 <br>
 
   <picture>
