@@ -8,7 +8,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+  <a href"https://github.com/VitorSena0/LeaningJSCurse"><img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/></a>
   <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
   <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
   <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
