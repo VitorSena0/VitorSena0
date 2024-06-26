@@ -57,7 +57,11 @@ Meu nome é Vitor Leonardo e atualmente sou estudante de graduação em Ciência
   <hr>
 <br>
 
-  ![Snake animation](https://github.com/VitorSena0/VitorSena0/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitorSena0/VitorSena0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitorSena0/VitorSena0/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VitorSena0/VitorSena0/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 
