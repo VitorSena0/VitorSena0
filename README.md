@@ -2,7 +2,7 @@
 
 <img align="right" width="52%" height="10%"  src="https://github.com/VitorSena0/VitorSena0/assets/97699477/4a40ecc5-47af-4b34-84b4-e7370a0e1821" alt="giphy" width="300" height="200"><br>
 <p style="text-align: justify;">
-Olá, meu nome é Vitor Leonardo e atualmente sou estudante de graduação em Ciências da Computação na UFS. Minha jornada acadêmica é marcada pela busca incessante por conhecimento, explorando diversas áreas para encontrar minha área de interesse. Estou sempre motivado a aprender e crescer, preparando-me para enfrentar os desafios futuros com dedicação e entusiasmo.</p>
+Meu nome é Vitor Leonardo e atualmente sou estudante de graduação em Ciências da Computação na UFS. Minha jornada acadêmica é marcada pela busca incessante por conhecimento, explorando diversas áreas para encontrar minha área de interesse. Estou sempre motivado a aprender e crescer, preparando-me para enfrentar os desafios futuros com dedicação e entusiasmo.</p>
 <br><br><br><br><br>
 <hr>
 <br>
@@ -11,11 +11,11 @@ Olá, meu nome é Vitor Leonardo e atualmente sou estudante de graduação em Ci
 <div style="display: flex; justify-content: center;">
 
   <a href="https://github.com/VitorSena0/github-readme-stats" >
-    <img style="width: 26em;" src="https://github-readme-stats.vercel.app/api?username=VitorSena0&show_icons=true&theme=radical&rank_icon=github" alt="VitorSena0 GitHub stats">
+    <img style="width: 31em;" src="https://github-readme-stats.vercel.app/api?username=VitorSena0&show_icons=true&theme=radical&rank_icon=github" alt="VitorSena0 GitHub stats">
   </a>
   
   <a href="https://github.com/VitorSena0/github-readme-stats">
-    <img style="width: 20em; height: 11em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSena0&langs_count=6&layout=compact&theme=radical" alt="Top Langs">
+    <img style="width: 25em; height: 13em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSena0&langs_count=6&layout=compact&theme=radical" alt="Top Langs">
   </a>
   
 </div>
