@@ -1,3 +1,3 @@
 ## Olá!! Eu sou Vitor Leonardo
-[![VitorSena0's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorSena0)](https://github.com/VitorSena0/github-readme-stats)
+![João da Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaodasilva&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
