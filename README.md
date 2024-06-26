@@ -8,11 +8,23 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-  <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
-  <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-  <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
-  <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
-  <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+    <a href="https://github.com/VitorSena0/LeaningJSCurse" target="_blank">
+    <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+  </a>
+  <a href="https://github.com/VitorSena0/LearningC" target="_blank">
+    <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
+  </a>
+  <a href="#" target="_blank">
+    <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+  </a>
+  <a href="#" target="_blank">
+    <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+  </a>
+  <a href="#" target="_blank">
+    <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
+  </a>
+  <a href="#" target="_blank">
+    <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+  </a>
 </div>
 
