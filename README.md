@@ -2,16 +2,22 @@
 
 <div style="display: flex; justify-content: center;">
 
-  <a href="https://github.com/VitorSena0/github-readme-stats" style="margin-right: 10px;">
-    <img style="width: 120em;" src="https://github-readme-stats.vercel.app/api?username=VitorSena0&show_icons=true&theme=radical&rank_icon=github" alt="VitorSena0 GitHub stats">
+  <a href="https://github.com/VitorSena0/github-readme-stats" >
+    <img style="width: 26em;" src="https://github-readme-stats.vercel.app/api?username=VitorSena0&show_icons=true&theme=radical&rank_icon=github" alt="VitorSena0 GitHub stats">
   </a>
   
   <a href="https://github.com/VitorSena0/github-readme-stats">
-    <img style="width: 120em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSena0&langs_count=6&layout=compact&theme=radical" alt="Top Langs">
+    <img style="width: 20em; height: 11em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSena0&langs_count=6&layout=compact&theme=radical" alt="Top Langs">
   </a>
   
 </div>
 
+<br>
+
+<img src="https://github.com/VitorSena0/VitorSena0/assets/97699477/4a40ecc5-47af-4b34-84b4-e7370a0e1821" alt="giphy" width="300" height="200">
+
+
+<br>
 
 
 <div style="display: inline_block"><br>
