@@ -1,11 +1,18 @@
 ## Olá, eu sou Vitor Leonardo
 
-<div>
+<div style="display: flex; justify-content: center;">
 
-[![VitorSena0 GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorSena0&show_icons=true&theme=radical\&rank_icon=github)](https://github.com/VitorSena0/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSena0&langs_count=6&layout=compact&theme=radical)](https://github.com/VitorSena0/github-readme-stats)
+  <a href="https://github.com/VitorSena0/github-readme-stats" style="margin-right: 10px;">
+    <img style="width: 120em;" src="https://github-readme-stats.vercel.app/api?username=VitorSena0&show_icons=true&theme=radical&rank_icon=github" alt="VitorSena0 GitHub stats">
+  </a>
+  
+  <a href="https://github.com/VitorSena0/github-readme-stats">
+    <img style="width: 120em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSena0&langs_count=6&layout=compact&theme=radical" alt="Top Langs">
+  </a>
   
 </div>
+
+
 
 <div style="display: inline_block"><br>
     <a href="https://github.com/VitorSena0/LeaningJSCurse" target="_blank">
