@@ -57,7 +57,7 @@ Meu nome é Vitor Leonardo e atualmente sou estudante de graduação em Ciência
   <hr>
 <br>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/VitorSena0/VitorSena0/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
