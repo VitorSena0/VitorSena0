@@ -1,4 +1,12 @@
-## Olá, eu sou Vitor Leonardo
+## Olá!!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<img align="right" width="52%" height="10%"  src="https://github.com/VitorSena0/VitorSena0/assets/97699477/4a40ecc5-47af-4b34-84b4-e7370a0e1821" alt="giphy" width="300" height="200"><br>
+<p style="text-align: justify;">
+Olá, meu nome é Vitor Leonardo e atualmente sou estudante de graduação em Ciências da Computação na UFS. Minha jornada acadêmica é marcada pela busca incessante por conhecimento, explorando diversas áreas para encontrar minha área de interesse. Estou sempre motivado a aprender e crescer, preparando-me para enfrentar os desafios futuros com dedicação e entusiasmo.</p>
+<br><br><br><br><br><br>
+
+
+
 
 <div style="display: flex; justify-content: center;">
 
@@ -11,14 +19,6 @@
   </a>
   
 </div>
-
-<br>
-
-<img src="https://github.com/VitorSena0/VitorSena0/assets/97699477/4a40ecc5-47af-4b34-84b4-e7370a0e1821" alt="giphy" width="300" height="200">
-
-
-<br>
-
 
 <div style="display: inline_block"><br>
     <a href="https://github.com/VitorSena0/LeaningJSCurse" target="_blank">
