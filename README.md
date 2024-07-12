@@ -1,8 +1,10 @@
 ## Olá!!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" width="52%" height="10%"  src="https://github.com/VitorSena0/VitorSena0/assets/97699477/4a40ecc5-47af-4b34-84b4-e7370a0e1821" alt="giphy" width="300" height="200"><br>
-<p style="text-align: justify;">
-Meu nome é Vitor Leonardo e atualmente sou estudante de graduação em Ciências da Computação na UFS. Minha jornada acadêmica é marcada pela busca incessante por conhecimento, explorando diversas áreas para encontrar minha área de interesse. Estou sempre motivado a aprender e crescer, preparando-me para enfrentar os desafios futuros com dedicação e entusiasmo.</p>
+<img align="right" width="52%" height="10%" style="padding-left: 200px;" src="https://github.com/VitorSena0/VitorSena0/assets/97699477/4a40ecc5-47af-4b34-84b4-e7370a0e1821" alt="giphy" width="300" height="200"><br>
+<p style="text-align: left; display: flex;
+        justify-content: flex-start;
+        margin-left: 20px;         margin-right: 20px; /* Espaçamento à direita *//* Margem esquerda para o parágrafo */ /* Define a tabulação de 20 pixels */">
+My name is Vitor Leonardo and I am currently an undergraduate student in Computer Science at UFS. My academic journey is marked by the relentless pursuit of knowledge, exploring various areas to find my area of interest. I am always motivated to learn and grow, preparing myself to face future challenges with dedication and enthusiasm.</p>
 <br><br><br><br><br>
 <img src="https://github.com/user-attachments/assets/2771e981-8cb8-49ef-af10-d15bfefaa462"><br><br>
 
