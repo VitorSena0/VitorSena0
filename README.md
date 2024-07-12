@@ -4,8 +4,7 @@
 <p style="text-align: justify;">
 Meu nome é Vitor Leonardo e atualmente sou estudante de graduação em Ciências da Computação na UFS. Minha jornada acadêmica é marcada pela busca incessante por conhecimento, explorando diversas áreas para encontrar minha área de interesse. Estou sempre motivado a aprender e crescer, preparando-me para enfrentar os desafios futuros com dedicação e entusiasmo.</p>
 <br><br><br><br><br>
-<hr>
-<br>
+<img src="https://github.com/user-attachments/assets/2771e981-8cb8-49ef-af10-d15bfefaa462"><br><br>
 
 
 <div style="display: flex; justify-content: center;">
@@ -43,7 +42,7 @@ Meu nome é Vitor Leonardo e atualmente sou estudante de graduação em Ciência
 
 <br>
 
-  <hr>
+<img src="https://github.com/user-attachments/assets/2771e981-8cb8-49ef-af10-d15bfefaa462"><br>
 <div>
   <a href="https://www.instagram.com/vitorsena02/" target="_blank">
     <img style="margin-left: 10px;" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
