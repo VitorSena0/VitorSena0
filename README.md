@@ -1,5 +1,5 @@
 ## Hi !!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VitorSena0&label=Profile%20views&color=ba0bea&style=flat" alt="VitorSena0" /> </p>
 <img align="right" width="52%" height="10%" style="padding-left: 200px;" src="https://github.com/VitorSena0/VitorSena0/assets/97699477/4a40ecc5-47af-4b34-84b4-e7370a0e1821" alt="giphy" width="300" height="200"><br>
 <p style="text-align: left; display: flex;
         justify-content: flex-start;
