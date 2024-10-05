@@ -44,6 +44,12 @@ My name is Vitor Leonardo and I am currently an undergraduate student in Compute
 
 <br>
 
+<div>
+![VdeosemttuloFeitocomoClipchamp1-ezgif com-effects](https://github.com/user-attachments/assets/31c73532-1d78-4400-acb9-caf920db2146)
+</div>
+
+<br>
+
 <img src="https://github.com/user-attachments/assets/2771e981-8cb8-49ef-af10-d15bfefaa462"><br>
 <div>
   <a href="https://www.instagram.com/vitorsena02/" target="_blank">
