@@ -21,7 +21,7 @@ My name is Vitor Leonardo and I am currently an undergraduate student in Compute
   
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
     <a href="https://github.com/VitorSena0/LeaningJSCurse" target="_blank">
     <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
   </a>
@@ -44,8 +44,8 @@ My name is Vitor Leonardo and I am currently an undergraduate student in Compute
 
 <br>
 
-<div>
-![VdeosemttuloFeitocomoClipchamp1-ezgif com-effects](https://github.com/user-attachments/assets/31c73532-1d78-4400-acb9-caf920db2146)
+<div align="center">
+<img align="justify" width="52%" height="10%" style="padding-left: 200px;" src="https://github.com/user-attachments/assets/31c73532-1d78-4400-acb9-caf920db2146" alt="giphy" width="300" height="200"><br>
 </div>
 
 <br>
