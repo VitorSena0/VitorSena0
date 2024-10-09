@@ -15,9 +15,7 @@ My name is Vitor Leonardo and I am currently an undergraduate student in Compute
     <img style="width: 31em;" src="https://github-readme-stats.vercel.app/api?username=VitorSena0&show_icons=true&theme=radical&rank_icon=github" alt="VitorSena0 GitHub stats">
   </a>
   
-  <a href="https://github.com/VitorSena0/github-readme-stats">
-    <img style="width: 25em; height: 13em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSena0&langs_count=7&layout=compact&theme=radical" alt="Top Langs">
-  </a>
+
   
 </div>
 
