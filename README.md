@@ -1,11 +1,11 @@
-## Hi !!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img align="center" width="100%" height="10%" style="padding-left: 200px;" src="https://github.com/VitorSena0/VitorSena0/assets/97699477/4a40ecc5-47af-4b34-84b4-e7370a0e1821" alt="giphy" width="300" height="200">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VitorSena0&label=Profile%20views&color=ba0bea&style=flat" alt="VitorSena0" /> </p>
-<img align="right" width="52%" height="10%" style="padding-left: 200px;" src="https://github.com/VitorSena0/VitorSena0/assets/97699477/4a40ecc5-47af-4b34-84b4-e7370a0e1821" alt="giphy" width="300" height="200"><br>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vitor Leonardo</h1>
 <p style="text-align: left; display: flex;
         justify-content: flex-start;
         margin-left: 20px;         margin-right: 20px; /* Espaçamento à direita *//* Margem esquerda para o parágrafo */ /* Define a tabulação de 20 pixels */">
-My name is Vitor Leonardo and I am currently an undergraduate student in Computer Science at UFS. My academic journey is marked by the relentless pursuit of knowledge, exploring various areas to find my area of interest. I am always motivated to learn and grow, preparing myself to face future challenges with dedication and enthusiasm.</p>
-<br><br><br><br><br>
+I am currently an undergraduate student in Computer Science at the Federal University of Sergipe (UFS). My academic journey is marked by the relentless pursuit of knowledge, exploring various fields to find my true interest. I am always motivated to learn and grow, preparing myself to face future challenges with dedication and enthusiasm.</p>
+<br><br>
 <img src="https://github.com/user-attachments/assets/2771e981-8cb8-49ef-af10-d15bfefaa462"><br><br>
 
 
