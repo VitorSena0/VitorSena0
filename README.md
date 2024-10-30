@@ -16,7 +16,7 @@ I am currently an undergraduate student in Computer Science at the Federal Unive
   </a>
   
 <a href="https://github.com/VitorSena0/github-readme-stats">
-    <img style="width: 25em; height: 13em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSena0&langs_count=7&layout=compact&theme=radical" alt="Top Langs">
+    <img style="width: 25em; height: 13em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSena0&langs_count=8&layout=compact&theme=radical" alt="Top Langs">
   </a>
 
   
