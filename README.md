@@ -26,7 +26,7 @@ I am currently an undergraduate student in Computer Science at the Federal Unive
 <p align="center">
   <h3>Main Skills</h3>
     <h4> ✅ Languages: </h4>
-    <img src="https://skillicons.dev/icons?i=python,js,java,cs,c,cpp" /><br/>
+    <img src="https://skillicons.dev/icons?i=python,js,java,cs,c,cpp,haskell" /><br/>
     <h4> ✅ Frameworks/Libraries: </h4>
     <img src="https://skillicons.dev/icons?i=nodejs,react,angular,vue,spring" /><br/>
     <h4> ✅ Databases: </h4>
