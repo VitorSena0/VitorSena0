@@ -37,9 +37,7 @@ I am currently an undergraduate student in Computer Science at the Federal Unive
 
 <br>
 
-<div align="center">
-<img align="justify" width="100%" height="100%" style="padding-left: 200px;" src="https://github.com/user-attachments/assets/31c73532-1d78-4400-acb9-caf920db2146" alt="giphy" width="300" height="200"><br>
-</div>
+
 
 <br>
 
