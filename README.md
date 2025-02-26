@@ -1,5 +1,7 @@
 <img align="center" width="100%" height="10%" style="padding-left: 200px;" src="https://github.com/VitorSena0/VitorSena0/assets/97699477/4a40ecc5-47af-4b34-84b4-e7370a0e1821" alt="giphy" width="300" height="200">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VitorSena0&label=Profile%20views&color=ba0bea&style=flat" alt="VitorSena0" /> </p>
+</div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" /></div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vitor Leonardo</h1>
 <p style="text-align: left; display: flex;
         justify-content: flex-start;
@@ -20,28 +22,18 @@ I am currently an undergraduate student in Computer Science at the Federal Unive
   </a>
 
   
-</div>
 
-<div style="display: inline_block" align="center"><br>
-    <a href="https://github.com/VitorSena0/LeaningJSCurse" target="_blank">
-    <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-  </a>
-  <a href="https://github.com/VitorSena0/LearningC" target="_blank">
-    <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
-  </a>
-  <a href="#" target="_blank">
-    <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-  </a>
-  <a href="#" target="_blank">
-    <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
-  </a>
-  <a href="#" target="_blank">
-    <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
-  </a>
-  <a href="#" target="_blank">
-    <img style="margin-left: 10px;" align="center" width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-  </a>
-</div>
+<p align="center">
+  <h3>Main Skills</h3>
+    <h4> ✅ Languages: </h4>
+    <img src="https://skillicons.dev/icons?i=python,js,java,cs,c,cpp" /><br/>
+    <h4> ✅ Frameworks/Libraries: </h4>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,angular,vue,spring" /><br/>
+    <h4> ✅ Databases: </h4>
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" /><br/>
+    <h4> ✅ Others: </h4>
+    <img src="https://skillicons.dev/icons?i=aws,docker,git,bootstrap" /><br/>
+</p>
 
 <br>
 
