@@ -12,14 +12,12 @@ I am currently an undergraduate student in Computer Science at the Federal Unive
 
 
 <div style="display: flex; justify-content: center;">
+        
 
-  <a href="https://github.com/VitorSena0/github-readme-stats" >
-    <img style="width: 31em;" src="https://github-readme-stats.vercel.app/api?username=VitorSena0&show_icons=true&theme=radical&rank_icon=github" alt="VitorSena0 GitHub stats">
-  </a>
+[![Anurag's GitHub stats](https://github-readme-stats-eight-livid-79.vercel.app/api?username=VitorSena0&show_icons=true&theme=radical&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
+
   
-<a href="https://github.com/VitorSena0/github-readme-stats">
-    <img style="width: 25em; height: 13em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSena0&langs_count=8&layout=compact&theme=radical" alt="Top Langs">
-  </a>
+[![Anurag's GitHub stats](https://github-readme-stats-eight-livid-79.vercel.app/api/top-langs/?username=VitorSena0&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
   
 
